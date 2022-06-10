@@ -1,1 +1,1 @@
-# beaytiful
+# beautiful
